@@ -1,5 +1,5 @@
 # printf_review_main
 
-Don't think , feel it!
+自分用
 
 warnings generated.は仕様だからしゃーなし
